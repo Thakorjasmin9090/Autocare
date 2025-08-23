@@ -1,0 +1,13 @@
+
+> @auto-consult/frontend@0.0.0 build /workspaces/Autocare/apps/frontend
+> tsc && vite build
+
+vite v4.4.5 building for production...
+transforming...
+✓ 32 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.45 kB │ gzip:  0.30 kB
+dist/assets/index-04490b11.css    0.95 kB │ gzip:  0.52 kB
+dist/assets/index-257a5cb0.js   142.96 kB │ gzip: 45.93 kB
+✓ built in 1.62s

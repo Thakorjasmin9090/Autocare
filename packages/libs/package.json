@@ -1,0 +1,21 @@
+{
+  "name": "@auto-consult/libs",
+  "version": "1.0.0",
+  "description": "Shared libraries and utilities for Auto Consult",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "lint": "eslint src/**/*.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "libs",
+    "utilities",
+    "typescript"
+  ],
+  "author": "Auto Consult Team",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
