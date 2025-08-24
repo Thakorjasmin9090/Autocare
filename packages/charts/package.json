@@ -1,0 +1,25 @@
+{
+  "name": "@auto-consult/charts",
+  "version": "1.0.0",
+  "description": "Charting components for Auto Consult admin dashboard",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "lint": "eslint src/**/*.ts src/**/*.tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "charts",
+    "data-visualization",
+    "admin-dashboard",
+    "typescript"
+  ],
+  "author": "Auto Consult Team",
+  "license": "MIT",
+  "dependencies": {
+    "recharts": "^2.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

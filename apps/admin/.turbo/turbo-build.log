@@ -1,0 +1,15 @@
+
+> @auto-consult/admin@0.0.0 build /workspaces/Autocare/apps/admin
+> tsc && vite build
+
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Header.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Header.tsx(2,42): error TS2307: Cannot find module '@heroicons/react/24/outline' or its corresponding type declarations.
+src/components/Sidebar.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Sidebar.tsx(10,8): error TS2307: Cannot find module '@heroicons/react/24/outline' or its corresponding type declarations.
+src/pages/CarManagement.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/CustomerService.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Dashboard.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/DocumentCenter.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/UserManagement.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+ ELIFECYCLE  Command failed with exit code 2.
